@@ -50,6 +50,7 @@ ion-col {
 
 #qr-code-section {
   margin-top: 20px;
+  margin-bottom: 60px;
 }
 
 #qr-code {
@@ -78,5 +79,7 @@ footer {
   color: #fff;
   padding: 15px 0;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
-
